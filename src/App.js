@@ -88,7 +88,11 @@ const ProductDisplay = () => {
                 alt='The cover of Stubborn Attachments'
               />
               <div className='description col-12 col-md-6 d-flex gap-2 flex-wrap justify-content-between mt-4'>
+<<<<<<< HEAD
                 <h1 className='col-12'>Payment Section: </h1>
+=======
+                <h1 className='col-12'>Payment Sectionasd: </h1>
+>>>>>>> parent of df8dbf27 (Delete all files)
                 <h3 className='col-12'>
                   Product Name: {Productdetails.product_name}
                 </h3>
